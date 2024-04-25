@@ -1,0 +1,23 @@
+Criar o projeto:
+npx create-expo-app rarenShoppingList
+
+Entrar no projeto:
+cd rarenShoppingList
+
+Instalar o Router:
+npx expo install expo-router react-native-safe-area-context react-native-screens expo-linking expo-constants expo-status-bar
+
+Rodar no cell:
+npx expo start --android --localhost 
+
+Configurar o router:
+Abir o arquivo package.json e alterar a chave main para:
+    "main": "expo-router/entry",
+
+Abrir o app.json e incluir a linha:
+    "scheme": "rarenShoppingList"
+    (antes do splash)
+
+Criar uma pasta "src" dentro da rarenShoppingList
+Criar uma pasta "app" dentro da src
+
