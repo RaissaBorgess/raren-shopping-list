@@ -21,3 +21,4 @@ Abrir o app.json e incluir a linha:
 Criar uma pasta "src" dentro da rarenShoppingList
 Criar uma pasta "app" dentro da src
 
+foto esta na index/app
