@@ -25,3 +25,6 @@ foto esta na index/app
 
 rodar na web
 npx expo start
+
+git config --global user.name lorentangi
+git config --global user.email lorentangi24@gmail.com
