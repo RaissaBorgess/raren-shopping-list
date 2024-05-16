@@ -22,3 +22,6 @@ Criar uma pasta "src" dentro da rarenShoppingList
 Criar uma pasta "app" dentro da src
 
 foto esta na index/app
+
+rodar na web
+npx expo start
