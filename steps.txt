@@ -28,3 +28,5 @@ npx expo start
 
 git config --global user.name lorentangi
 git config --global user.email lorentangi24@gmail.com
+
+npx expo install @react-native-async-storage/async-storage
