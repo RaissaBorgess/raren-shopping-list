@@ -26,7 +26,7 @@ export const styles = StyleSheet.create({
     actionIcon: {
         height: 40,
         width: 40,
-        backgroundColor: "darkgreen",
+        backgroundColor: "darkGreen",
         justifyContent: "center",
         alignItems: "center",
         marginLeft: 10,
